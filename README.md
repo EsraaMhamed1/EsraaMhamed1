@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on  **React , Next js **
+- 🔭 I’m currently working on  ** React js , Next js **
 
 - ☁️ I've keen interest in datascience . So,I'm learning ai and machien learning.
 
@@ -46,7 +46,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,figma,github,html,js,sql,materialui,mongodb,nextjs,nosql,r,nodejs,postman,react,redux,ts,vscode" />
+    <img src="https://skillicons.dev/icons?i=  git,css,figma,github,html,js,sql,materialui,mongodb,nextjs,nosql,r,nodejs,postman,react,redux,ts,vscode  " />
   </a>
 </p>
 
