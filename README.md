@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Bayan Elian</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Esraa Mohamed </h1></summary>
   </ul>
 </div>
 
@@ -26,15 +26,14 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on  **React, Next js , Nodejs , express js , MongoDB**
+- 🔭 I’m currently working on  **React, Next js **
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I've keen interest in datascience . So,I'm learning ai and machien learning.
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 💬 Ask me about ** js , React, Next js , mongoDB**
 
-- 📫 Feel free to reach me out **bezo2024@gmail.com**
+- 📫 Feel free to reach me out **esraaeltehawy@gmail.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [bezo2024](https://discordapp.com/users/613419936420986896) my username!
 <!--Intro end-->
 
 
