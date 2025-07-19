@@ -27,6 +27,7 @@
 
 <!--Intro start-->
 - 🔭 I’m currently working on  ** React js , Next js **
+- Data Analyst , Business inteligence developer
 
 - ☁️ I've keen interest in datascience . So,I'm learning ai and machien learning.
 
