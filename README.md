@@ -31,7 +31,7 @@
 
 - ☁️ I've keen interest in datascience . So,I'm learning ai and machien learning.
 
-- 💬 Ask me about ** js , React, Next js , mongoDB**
+- 💬 Ask me about ** js , React, Next js ,Database , MySQL , Oracle**
 
 - 📫 Feel free to reach me out **esraaeltehawy@gmail.com**
 
